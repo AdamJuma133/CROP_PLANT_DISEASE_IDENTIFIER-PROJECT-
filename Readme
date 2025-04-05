@@ -1,3 +1,0 @@
-git add README.ipynb
-git commit -m "Add Jupyter README file"
-git push origin main
